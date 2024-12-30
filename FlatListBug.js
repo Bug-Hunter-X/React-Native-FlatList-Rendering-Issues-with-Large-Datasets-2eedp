@@ -1,0 +1,1 @@
+This React Native bug is related to using the FlatList component with a large dataset. When scrolling quickly, the component renders blank rows or fails to update correctly, causing visual glitches and performance issues. This is often due to inefficient data handling and improper key usage within the FlatList.
